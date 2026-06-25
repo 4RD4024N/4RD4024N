@@ -1,37 +1,39 @@
 # Arda Özan
 
-I'm a Computer Engineering student at Başkent University, Ankara. I like building things that actually work — not just proof-of-concept demos, but real applications with proper structure from the backend to the frontend.
+Computer Engineering student at Başkent University, Ankara. I build things end-to-end — from database schema to UI — and I care more about whether something actually works than whether it looks impressive on paper.
 
-Most of my time goes into backend APIs and full-stack projects, though lately I've been getting into computer vision and real-time interaction (hand gesture control, voice applications). I'm comfortable working across the stack and I try to keep my code clean and readable, not just functional.
+My main focus is backend systems and REST APIs, but I'm comfortable across the stack. Lately I've been exploring real-time communication and computer vision on the side, which has been a nice change from writing CRUD endpoints all day.
 
 ---
 
-## What I'm currently working on
+## What I'm working on
 
-- **AdvisorySystem** — a full-stack advisory platform with a Spring Boot API and a React frontend. Ongoing.
-- **Hand gesture media controller** — controlling media playback with just your hands using Python and OpenCV. Fun project that turned into something genuinely usable.
-- **secure-voice-app** — browser-based real-time voice communication demo.
+**AdvisorySystem** is my main project right now — a full university advisory platform built with .NET 8, Entity Framework Core, and SQL Server on the backend, React on the frontend. It handles student course registration with conflict detection, advisor-student matching, document management, and notifications. It's the kind of project that keeps growing in scope the more you build it.
+
+**hand_gesture_media_controller** started as an experiment and turned into something I actually use. It controls media playback and system volume through hand gestures via webcam, with Spotify voice search built in. Uses MediaPipe for hand tracking, Pycaw for Windows audio, and Spotipy for the Spotify integration.
+
+**secure-voice-app** is a browser-based peer-to-peer voice communication demo built with WebRTC and a Node.js signaling server. Lightweight, no accounts, just connect and talk.
 
 ---
 
 ## Tech
 
-**Languages:** Python, Java, JavaScript, C#  
-**Frameworks & Libraries:** Spring Boot, React, .NET, Flask, FastAPI, OpenCV  
-**Tools:** Git, Docker, Maven  
-**Concepts:** RESTful APIs, real-time systems, applied computer vision
+**Languages:** Python, Java, C#, JavaScript  
+**Frameworks:** .NET 8, Spring Boot, React, Flask, FastAPI  
+**Libraries & Tools:** Entity Framework Core, OpenCV, MediaPipe, Docker, Maven, Git  
+**Concepts:** RESTful APIs, WebRTC, real-time systems, computer vision, JWT auth
 
 ---
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [AdvisorySystem.Api](https://github.com/4RD4024N/AdvisorySystem.Api) | Backend API for a full-stack advisory platform |
-| [advisorysystemfrontend](https://github.com/4RD4024N/advisorysystemfrontend) | React frontend for the same platform |
-| [hand_gesture_media_controller](https://github.com/4RD4024N/hand_gesture_media_controller) | Media control via hand gestures with OpenCV |
-| [secure-voice-app](https://github.com/4RD4024N/secure-voice-app) | Real-time voice communication in the browser |
-| [Arda-veris](https://github.com/4RD4024N/Arda-veris) | E-commerce demo built with Spring Boot and Maven |
+| Project | Stack | What it does |
+|---|---|---|
+| [AdvisorySystem.Api](https://github.com/4RD4024N/AdvisorySystem.Api) | C# / .NET 8 / EF Core / SQL Server | University advisory system backend — course registration, conflict detection, role-based auth |
+| [advisorysystemfrontend](https://github.com/4RD4024N/advisorysystemfrontend) | React | Frontend for the advisory system |
+| [hand_gesture_media_controller](https://github.com/4RD4024N/hand_gesture_media_controller) | Python / OpenCV / MediaPipe | Gesture-based media control with Spotify voice integration |
+| [secure-voice-app](https://github.com/4RD4024N/secure-voice-app) | Node.js / WebRTC | Browser-based P2P voice communication |
+| [Arda-veris](https://github.com/4RD4024N/Arda-veris) | Spring Boot / Maven | E-commerce demo, my first real Spring project |
 
 ---
 
