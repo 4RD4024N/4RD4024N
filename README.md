@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Arda%20%C3%96zan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%40%20Ba%C5%9Fkent%20University&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Arda%20%C3%96zan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/4RD4024N">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+%26+full-stack+developer;Building+games+with+Unity;Real-time+systems+%26+computer+vision" alt="Typing SVG" />
@@ -14,32 +14,32 @@
 
 ---
 
-## 👋 About
+## About
 
-Computer Engineering student at **Başkent University**. I mostly work on backend APIs and full-stack projects, and lately I've been spending more time on **game development**, real-time systems and computer vision.
+Computer Engineer. I mostly work on backend APIs and full-stack projects, and lately I've been spending more time on **game development**, real-time systems and computer vision.
 
-Currently building at **[Neuvikon](https://neuvikon.com)** 🚀
+Currently building at **[Neuvikon](https://neuvikon.com)**
 
 ---
 
-## 🎮 Now Building
+## Now Building
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧠 <a href="https://neuvikon.com">Neuvikon</a></h3>
+      <h3><a href="https://neuvikon.com">Neuvikon</a></h3>
       <p>Games and software studio I'm part of.</p>
       <img src="https://img.shields.io/badge/Studio-7aa2f7?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h3>🚌 <a href="https://github.com/4RD4024N/Muavin-Sim">Muavin Sim</a></h3>
+      <h3><a href="https://github.com/4RD4024N/Muavin-Sim">Muavin Sim</a></h3>
       <p>A simulation game I'm developing.</p>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h3>🏎️ <a href="https://github.com/4RD4024N/car-party-game">Car Party Game</a></h3>
-      <p>Local multiplayer party game with cars, made with a friend.</p>
+      <h3><a href="https://github.com/4RD4024N/car-party-game">Car Party Game</a></h3>
+      <p>Multiplayer party game with cars, made with a friend.</p>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/URP-bb9af7?style=flat-square" />
     </td>
@@ -48,7 +48,7 @@ Currently building at **[Neuvikon](https://neuvikon.com)** 🚀
 
 ---
 
-## 🛠️ Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -61,7 +61,7 @@ Currently building at **[Neuvikon](https://neuvikon.com)** 🚀
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Currently building at **[Neuvikon](https://neuvikon.com)** 🚀
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
