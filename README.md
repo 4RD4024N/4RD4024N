@@ -9,7 +9,6 @@
 <br/>
 
 <a href="https://portfolio-iota-pied-f1x7qp7qjn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://neuvikon.com"><img src="https://img.shields.io/badge/Neuvikon-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 ---
@@ -18,8 +17,6 @@
 
 Computer Engineer. I mostly work on backend APIs and full-stack projects, and lately I've been spending more time on **game development**, real-time systems and computer vision.
 
-Currently building at **[Neuvikon](https://neuvikon.com)**
-
 ---
 
 ## Now Building
@@ -27,9 +24,10 @@ Currently building at **[Neuvikon](https://neuvikon.com)**
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://neuvikon.com">Neuvikon</a></h3>
-      <p>Games and software studio I'm part of.</p>
-      <img src="https://img.shields.io/badge/Studio-7aa2f7?style=flat-square" />
+      <h3><a href="https://github.com/4RD4024N/cardrive">CarDrive</a></h3>
+      <p>A driving game I'm building in Unreal Engine 5.</p>
+      <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/4RD4024N/Muavin-Sim">Muavin Sim</a></h3>
